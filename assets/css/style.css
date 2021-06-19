@@ -16,6 +16,8 @@ body::before {
   top: 0;
   height: 100vh;
   z-index: -1;
+  background-repeat:no-repeat;
+  background-position:center;
 }
 
 @media (min-width: 1024px) {
